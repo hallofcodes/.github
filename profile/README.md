@@ -13,6 +13,7 @@ You've reached the GitHub organization of **Hall of Codes**, where collaboration
 At Hall of Codes, we're passionate about building a community where every programmer can thrive — from beginners to seasoned pros.
 
 Our mission is to create a space where:
+
 - 🤝 Collaboration flourishes
 - 💡 Ideas are shared freely
 - 🚀 Innovation knows no bounds
@@ -36,6 +37,25 @@ We welcome contributions from developers of all backgrounds and experience level
 
 To ensure a respectful and inclusive environment, we follow a [Code of Conduct](https://github.com/hallofcodes/join/blob/main/CODE_OF_CONDUCT.md).  
 By participating in our community, you agree to uphold these values.
+
+---
+
+<table align="left">
+  <tr>
+    <td width="420" style="border:1px solid #e5e7eb; padding:16px; border-radius:10px;">
+      <strong>Newest Sponsor</strong><br><br>
+      <strong>ExcelinWeb</strong><br>
+      <img src="https://start.excelinweb.com/assets/images/logo/excelinweb-logo-white-transparent.png" alt="ExcelinWeb logo" height="36"><br>
+      <ul>
+        <li>Financial assistance for domain registration and related infrastructure costs.</li>
+        <li>Increased operational stability for the organization’s online presence.</li>
+        <li>Opportunity to build long-term relationships with industry supporters and collaborators.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
 
 ---
 
