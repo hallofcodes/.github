@@ -22,7 +22,8 @@ Our mission is to create a space where:
 
 ## 🧩 Want to Join?
 
-Check out our join repository:  
+Just submit an issue, and we will automatically send an invite.
+
 👉 **[github.com/hallofcodes/join](https://github.com/hallofcodes/join)**
 
 ---
@@ -33,9 +34,9 @@ We welcome contributions from developers of all backgrounds and experience level
 
 ---
 
-## 📜 Code of Conduct
+## 📜 Community Guidelines
 
-To ensure a respectful and inclusive environment, we follow a [Code of Conduct](https://github.com/hallofcodes/join/blob/main/CODE_OF_CONDUCT.md).  
+To ensure a respectful and inclusive environment, we follow a [Community Guidelines](https://www.hallofcodes.org/community-guidelines).  
 By participating in our community, you agree to uphold these values.
 
 ---
