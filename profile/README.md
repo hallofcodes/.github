@@ -46,7 +46,7 @@ By participating in our community, you agree to uphold these values.
     <td width="420" style="border:1px solid #e5e7eb; padding:16px; border-radius:10px;">
       <strong>Newest Sponsor</strong><br><br>
       <strong>ExcelinWeb</strong><br>
-      <img src="https://start.excelinweb.com/assets/images/logo/excelinweb-logo-white-transparent.png" alt="ExcelinWeb logo" height="36"><br>
+      <img src="https://excelinweb.com/assets/images/logo/excelinweb-logo-white-transparent.png" alt="ExcelinWeb logo" height="36"><br>
       <ul>
         <li>Financial assistance for domain registration and related infrastructure costs.</li>
         <li>Increased operational stability for the organization’s online presence.</li>
@@ -59,6 +59,28 @@ By participating in our community, you agree to uphold these values.
 <br clear="left"/>
 
 ---
+
+## Featured Projects
+
+### Wesbyte
+
+AI-powered no-code website builder built with Next.js and React. Users can generate full websites from prompts, refine them with AI, and then fully customize layouts using a professional drag-and-drop visual editor & no coding required.
+https://github.com/hallofcodes/wesbyte
+
+### WarpShare
+
+Instant file sharing CLI tool (Local Wi-Fi & Remote Internet). 
+https://github.com/hallofcodes/WarpShare
+
+### AI Agent Plugin for Acode
+
+An autonomous AI agent plugin for Acode that enables LLMs to directly read, create, and refactor files, while executing terminal commands through a secure agentic loop—bringing desktop-class AI automation to Android.
+https://github.com/hallofcodes/acode-ai-agent-plugin
+
+### Devpulse
+
+Measure coding productivity, personalized leaderboards, communicate with all members, flex your projects and project managenment features.
+https://github.com/hallofcodes/devpulse
 
 Let’s merge programmers beyond conflicts and unlock the power of collaboration together!
 
