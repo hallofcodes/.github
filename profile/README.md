@@ -2,7 +2,7 @@
 
 <img src="assets/title.svg" alt="Hall of Codes" height="120">
 
-**Merging Programmers Beyond Conflicts**
+**Merging Programmers Beyond Conflicts** 
 
 You've reached the GitHub organization of **Hall of Codes**, where collaboration transcends boundaries and innovation knows no limits. We believe in fostering an inclusive environment where programmers of all levels come together to learn, create, and innovate — without labels or limitations.
 
