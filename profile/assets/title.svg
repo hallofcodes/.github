@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 400 110" width="400" height="110" role="img"
+     viewBox="0 0 350 80" width="350" height="80" role="img"
      aria-label="Hall of Codes — Merging Programmers Beyond Conflicts">
-  <text x="0" y="55"
+  <text x="0" y="42"
         font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
         font-size="48" font-weight="700" fill="#ffffff">
     Hall of Codes
   </text>
-  <text x="0" y="90"
+  <text x="0" y="72"
         font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
         font-size="18" font-weight="600" fill="#ffffff">
     Merging Programmers Beyond Conflicts
