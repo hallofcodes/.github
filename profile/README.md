@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/93744673?s=200&v=4" align="left" height="120" style="margin-right: 20px;">
 
-<img src="assets/title.svg" alt="Hall of Codes" height="100">
+<img src="assets/title.svg" alt="Hall of Codes" height="80">
 
 **Merging Programmers Beyond Conflicts** 
 
